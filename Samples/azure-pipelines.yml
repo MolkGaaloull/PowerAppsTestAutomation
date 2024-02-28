@@ -11,7 +11,7 @@ resources:
       name: MolkGaaloull/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com_MolkGaaloull
+      endpoint: github.com_molkgaaloull
 
 parameters:
  - name: image
